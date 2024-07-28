@@ -80,7 +80,7 @@ This project introduces a cutting-edge method to interact with PowerPoint presen
 [e] represent the gesture to show a Pointer
 [f] represent the gesture to Zoom in and Zoom Out
  ## FACE DETECTION
- ![image](https://github.com/user-attachments/assets/ca9ffdc2-4579-4d91-a089-b6653bf12262)
+![image](https://github.com/user-attachments/assets/d22607f2-096c-42e2-a339-65d490ba3aea)
 
 ![image](https://github.com/user-attachments/assets/916a94d6-6c2f-4576-9550-eef7d056b229)
 
